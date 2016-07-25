@@ -1,0 +1,4 @@
+Q1,Points, Single Select,1/2/3/4/5/6
+Q2,Select choices more than one,Multi Select,A/B/C/D
+Q3,Enter Text data,Text
+Q4,Number Input,Number 
